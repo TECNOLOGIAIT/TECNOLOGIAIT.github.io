@@ -33,9 +33,9 @@ header{
     height: 600px;
     background: #a8ff78;  
     /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #33eef58a, #2a676baf), url( ./img/kids.PNG); 
+    background: -webkit-linear-gradient(to right, #33eef58a, #2a676baf), url( ../img/kids.PNG); 
     /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, rgba(39, 126, 153, 0.541), #257979af), url( ./img/kids.PNG);
+    background: linear-gradient(to right, rgba(39, 126, 153, 0.541), #257979af), url( ../img/kids.PNG);
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     background-size: cover;
     background-attachment: fixed;
